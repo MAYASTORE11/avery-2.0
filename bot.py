@@ -23,4 +23,4 @@ class Bot:
         self.client.run(self.token)
 
 
-Bot('OTA0MDk5NTMxMjE2NTM5Njcw.YX2mTQ.b4ZRbNWPq3qiAV9rOkOjznjsNbk', 'General').run()
+Bot('MTE4MTE5MTg0MjQzMjI4Njc3MA.G76PA2.0WL8MtPxSyNmM-AB25aZdm4yVc6fuO73-EsZUY', 'General').run()
